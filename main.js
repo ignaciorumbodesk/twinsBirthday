@@ -2,7 +2,7 @@
 
 const canciones = [
     "Los-Del-Espacio.mp3",
-    "Algo-Magico.mp3",
+    "Algo-Magico.Mp3",
     "La-Triple-T.mp3",
     "Vuelta-a-la-Luna-Official-Remix.mp3",
     ]
